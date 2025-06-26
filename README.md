@@ -10,6 +10,7 @@
 > Auto-selects characters → taps ready → starts battle → taps yes/ok → continues loop.
 
 ![screenshot](./templates/ready.png)
+![screen](https://github.com/user-attachments/assets/177efb9a-d0e6-4f0f-9967-b98c86f84de1)
 
 ---
 
